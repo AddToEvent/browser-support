@@ -11,7 +11,7 @@ It is just a customised version of the [Browser Update](https://browser-update.o
 Main difficult contenders are old editions of IE. Most of our issues are solved with SCSS and a good autoprefixer. 
 
 #### Supported
-- Chrome (last 6 versions) – No known issues in lesser versions, but push for upgrade.
+- Chrome (version 20 (discontinued by Google) or higher) – Browser pushes for upgrade, so we shouldn't need to.
 - Opera (last 6 versions) – No known issues in lesser versions, but push for upgrade.
 - Firefox (last 6 versions) – No known issues in lesser versions, but push for upgrade.
 - Safari (last 3 versions) – No known issues in lesser versions, but push for upgrade.
